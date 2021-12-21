@@ -6,7 +6,7 @@ In this binary classification task, One should implement a model to predict whet
 
 Platform: Zindi
 
-Position: 1 out of 38 contestants
+Position: 1 out of 67 contestants
 
 Contest URL: https://zindi.africa/hackathons/indabax-sudan-2021
 
