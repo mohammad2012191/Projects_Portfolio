@@ -21,4 +21,4 @@ Accuracy Score: 78.4%
 
 Contest URL: https://www.kaggle.com/c/titanic/overview
 
-Tools: Jupyter Notebooks - Python 3 - Logistic Regression - Pandas
+## Tools: Jupyter Notebooks - Python 3 - Logistic Regression - Pandas
