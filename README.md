@@ -22,3 +22,16 @@ Accuracy Score: 78.4%
 Contest URL: https://www.kaggle.com/c/titanic/overview
 
 ## Tools: Jupyter Notebooks - Python 3 - Logistic Regression - Pandas
+---------------------------------------------------------------------------------------
+* ## Economic Well-Being Prediction Challenge: 
+In this regression task, One should implement a model to predict a measure of wealth for different locations across Africa.
+
+Platform: Zindi
+
+Position: 4 out of 36 contestants
+
+RMSE: 0.1054721454415469
+
+Contest URL: https://zindi.africa/competitions/umojahack-2022-practice-challenge
+
+## Tools: Jupyter Notebooks - Python 3 - LGBM - Pandas
