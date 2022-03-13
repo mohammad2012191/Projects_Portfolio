@@ -28,10 +28,10 @@ In this regression task, One should implement a model to predict a measure of we
 
 Platform: Zindi
 
-Position: 4 out of 36 contestants
+Position: 1 out of 44 contestants
 
-RMSE: 0.1054721454415469
+RMSE: 0.1039661172059555
 
 Contest URL: https://zindi.africa/competitions/umojahack-2022-practice-challenge
 
-## Tools: Jupyter Notebooks - Python 3 - LGBM - Pandas
+## Tools: Jupyter Notebooks - Python 3 - LGBM - Bagging Regressor - Pandas
