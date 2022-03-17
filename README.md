@@ -6,7 +6,7 @@ In this binary classification task, One should implement a model to predict whet
 
 Platform: Zindi
 
-Position: 1 out of 67 contestants
+Position: 1 out of 38 contestants
 
 Contest URL: https://zindi.africa/hackathons/indabax-sudan-2021
 
@@ -28,7 +28,7 @@ In this regression task, One should implement a model to predict a measure of we
 
 Platform: Zindi
 
-Position: 1 out of 75 contestants
+Position: 1 out of 91 contestants
 
 RMSE: 0.1039661172059555
 
