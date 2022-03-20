@@ -12,7 +12,7 @@ Contest URL: https://zindi.africa/hackathons/indabax-sudan-2021
 
 Tools: Jupyter Notebooks - Python 3 - XGBoost - Pandas
 ---------------------------------------------------------------------------------------
-* ## Titanic - Machine Learning from Disaster: 
+* ## Titanic Survival Prediction Challenge: 
 In this binary classification task, One should implement a model to predict whether a person has survived from the sinking of the Titanic or not given some information about the person.
 
 Platform: Kaggle
