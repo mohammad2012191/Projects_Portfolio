@@ -43,6 +43,8 @@ Platform: Zindi
 
 Accuracy Score: 83.4%
 
+Position: 46 out of 493 contestants
+
 Contest URL: https://zindi.africa/competitions/umojahack-africa-2022-beginner-challenge
 
 ## Tools: Jupyter Notebooks - Python 3 - LGBM - SMOTE - Pandas
