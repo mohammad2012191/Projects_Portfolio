@@ -35,3 +35,14 @@ RMSE: 0.1039661172059555
 Contest URL: https://zindi.africa/competitions/umojahack-2022-practice-challenge
 
 ## Tools: Jupyter Notebooks - Python 3 - LGBM - Bagging Regressor - Pandas
+---------------------------------------------------------------------------------------
+* ## Faulty Air Quality Sensor Prediction: 
+In this binary classification task, One should implement a model to predict whether a device is faulty based on its output data.
+
+Platform: Zindi
+
+Accuracy Score: 83.4%
+
+Contest URL: https://zindi.africa/competitions/umojahack-africa-2022-beginner-challenge
+
+## Tools: Jupyter Notebooks - Python 3 - LGBM - SMOTE - Pandas
