@@ -18,3 +18,4 @@ While there was some element of luck involved in surviving, it seems some groups
 <br /> 7- Making the Final Prediction File
 
 * ## Accuracy: 78.4%
+* ## Contest URL: https://www.kaggle.com/c/titanic/overview
