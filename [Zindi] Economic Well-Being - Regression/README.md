@@ -16,5 +16,5 @@ measured in household surveys using readily available inputs.
 <br /> 8- Making the Final Prediction File
 
 * ## RMSE: 0.1039661172059555
-* ## Position: 2 out of 107 contestants
+* ## Position: 2 out of 482 contestants
 * ## Contest URL: https://zindi.africa/competitions/umojahack-2022-practice-challenge
