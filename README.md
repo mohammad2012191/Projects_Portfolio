@@ -8,6 +8,8 @@ Platform: Zindi
 
 Position: 1 out of 38 contestants
 
+MAE: 0.109555087371421
+
 Contest URL: https://zindi.africa/hackathons/indabax-sudan-2021
 
 Tools: Jupyter Notebooks - Python 3 - XGBoost - Pandas
@@ -48,3 +50,16 @@ Position: 46 out of 493 contestants
 Contest URL: https://zindi.africa/competitions/umojahack-africa-2022-beginner-challenge
 
 ## Tools: Jupyter Notebooks - Python 3 - LGBM - SMOTE - Pandas
+---------------------------------------------------------------------------------------
+* ## Tanzania Tourism Prediction Challenge: 
+In this regression task, One should implement a model to predict what a tourist will spend when visiting Tanzania.
+
+Platform: Zindi
+
+Position: 13 out of 308 contestants
+
+MAE: 4971847.829238593
+
+Contest URL: https://zindi.africa/competitions/tanzania-tourism-prediction
+
+## Tools: Jupyter Notebooks - Python 3 - LGBM - Bagging Regressor - Pandas
