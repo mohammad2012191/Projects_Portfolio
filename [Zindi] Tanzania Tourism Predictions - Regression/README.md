@@ -18,7 +18,7 @@ tourists across the world estimate their expenditure before visiting Tanzania.
 <br /> 8- Making the Final Submission File
 
 * ## MAE: 4971847.829238593
-* ## Position: 13 out of 308 contestants
+* ## Position: 14 out of 308 contestants
 * ## Contest URL: https://zindi.africa/competitions/tanzania-tourism-prediction
 * ## Contributers:
 Contributer | Zindi Account
