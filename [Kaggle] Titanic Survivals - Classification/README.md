@@ -19,7 +19,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 * ## Accuracy: 78.4%
 * ## Contest URL: https://www.kaggle.com/c/titanic/overview
-* * ## Contributers:
+* ## Contributers:
 Contributer | Zindi Account
 --- | ---
 Mohamed Eltayeb | [@Mohamed-Eltayeb](https://zindi.africa/users/Mohamed-Eltayeb)
