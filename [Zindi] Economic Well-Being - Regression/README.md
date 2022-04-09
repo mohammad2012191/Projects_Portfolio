@@ -18,3 +18,8 @@ measured in household surveys using readily available inputs.
 * ## RMSE: 0.1039661172059555
 * ## Position: 2 out of 482 contestants
 * ## Contest URL: https://zindi.africa/competitions/umojahack-2022-practice-challenge
+* ## Contributers:
+Contributer | Zindi Account
+--- | ---
+Mohamed Eltayeb | [@Mohamed-Eltayeb](https://zindi.africa/users/Mohamed-Eltayeb)
+
