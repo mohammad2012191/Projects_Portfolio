@@ -17,3 +17,9 @@ The models and solutions developed can provide an indication of the state of fin
 * ## MSE: 0.109555087371421
 * ## Position: 1 out of 67 contestants
 * ## Contest URL: https://zindi.africa/hackathons/indabax-sudan-2021
+* ## Contributers:
+Contributer | Zindi Account
+--- | ---
+Mohamed Eltayeb | [@Mohamed-Eltayeb](https://zindi.africa/users/Mohamed-Eltayeb)
+Omar Hayder | [@Omar_Wade3](https://zindi.africa/users/Omar_Wade3)
+Momen Abdalwadoud | [@Momenwadoud](https://zindi.africa/users/momenwadoud)
