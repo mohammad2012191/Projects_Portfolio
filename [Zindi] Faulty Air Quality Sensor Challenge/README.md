@@ -23,3 +23,8 @@ inaccuracies and data loss, which impacts decisions and policies that could sign
 * ## Accuracy: 83.4%
 * ## Position: 46 out of 719 contestants
 * ## Contest URL: https://zindi.africa/competitions/umojahack-africa-2022-beginner-challenge
+* ## Contributers:
+Contributer | Zindi Account
+--- | ---
+Mohamed Eltayeb | [@Mohamed-Eltayeb](https://zindi.africa/users/Mohamed-Eltayeb)
+Omar Hayder | [@Omar_Wade3](https://zindi.africa/users/Omar_Wade3)
