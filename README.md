@@ -6,6 +6,8 @@ In this binary classification task, One should implement a model to predict whet
 
 Platform: Zindi
 
+Type of Data: Tabular Data
+
 Position: 1 out of 38 contestants
 
 MAE: 0.109555087371421
@@ -19,6 +21,8 @@ In this binary classification task, One should implement a model to predict whet
 
 Platform: Kaggle
 
+Type of Data: Tabular Data
+
 Accuracy Score: 78.4%
 
 Contest URL: https://www.kaggle.com/c/titanic/overview
@@ -29,6 +33,8 @@ Contest URL: https://www.kaggle.com/c/titanic/overview
 In this regression task, One should implement a model to predict a measure of wealth for different locations across Africa.
 
 Platform: Zindi
+
+Type of Data: Tabular Data
 
 Position: 2 out of 107 contestants
 
@@ -43,6 +49,8 @@ In this binary classification task, One should implement a model to predict whet
 
 Platform: Zindi
 
+Type of Data: Time Series Data
+
 Accuracy Score: 83.4%
 
 Position: 46 out of 493 contestants
@@ -56,6 +64,8 @@ In this regression task, One should implement a model to predict what a tourist 
 
 Platform: Zindi
 
+Type of Data: Tabular Data
+
 Position: 13 out of 308 contestants
 
 MAE: 4971847.829238593
@@ -63,3 +73,16 @@ MAE: 4971847.829238593
 Contest URL: https://zindi.africa/competitions/tanzania-tourism-prediction
 
 ## Tools: Jupyter Notebooks - Python 3 - LGBM - Bagging Regressor - Pandas
+---------------------------------------------------------------------------------------
+* ## Rossmann Stores Sales Prediction: 
+In this regression task, One should implement a model to forecast the store sales for the next six weeks of the data.
+
+Platform: Kaggle
+
+Type of Data: Time Series Data
+
+RMSPE Score: 0.11323
+
+Contest URL: https://www.kaggle.com/competitions/rossmann-store-sales/
+
+## Tools: Jupyter Notebooks - EDA - LGBM - Stacking - Pandas
