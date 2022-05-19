@@ -51,9 +51,11 @@ Platform: Zindi
 
 Type of Data: Time Series Data
 
-Accuracy Score: 83.4%
+[Original Solution] Accuracy Score: 83.4%
+<br> [Updated Solution] Accuracy Score: 94.7%
 
-Position: 46 out of 493 contestants
+[Original Solution] Position: 46 out of 493 contestants
+<br> [Updated Solution] Position: 1 out of 493 contestants
 
 Contest URL: https://zindi.africa/competitions/umojahack-africa-2022-beginner-challenge
 
