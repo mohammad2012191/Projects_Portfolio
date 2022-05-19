@@ -20,8 +20,10 @@ inaccuracies and data loss, which impacts decisions and policies that could sign
 <br /> 6- Evaluating Against the Test Set using Roll-forward Window Cross-validation
 <br /> 7- Making the Final Prediction File
 
-* ## Accuracy: 83.4%
-* ## Position: 46 out of 719 contestants
+* ## [Original] Accuracy: 83.4%
+* ## [Updated] Accuracy: 94.7%
+* ## [Original] Position: 46 out of 719 contestants
+* ## [Updated] Position: 1 out of 719 contestants
 * ## Contest URL: https://zindi.africa/competitions/umojahack-africa-2022-beginner-challenge
 * ## Contributers:
 Contributer | Zindi Account
