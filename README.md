@@ -100,6 +100,6 @@ Accuracy Score: 47.8%
 
 Position: 4 out of 251 contestants
 
-Contest URL: https://zindi.africa/competitions/zindi-weekendz-laduma-analytics-football-league-winners-prediction-challenge/leaderboard
+Contest URL: https://zindi.africa/competitions/zindi-weekendz-laduma-analytics-football-league-winners-prediction-challenge
 
 ## Tools: Jupyter Notebooks - Python 3 - LGBM - Pandas
