@@ -1,0 +1,413 @@
+Date,Season,Match_ID,Game_ID,Home Team,Away Team,Score
+2017-02-15,1,1.0,ID_KAG4KAE9,Antennae,Andromeda,Away win
+2016-09-14,1,12.0,ID_T7H1XN5Z,Andromeda,Antennae,Draw
+2016-12-12,1,13.0,ID_O1P9FGN4,Andromeda,Butterfly,Away win
+2017-01-25,1,14.0,ID_TR5M4KQV,Andromeda,Cigar,Away win
+2016-08-24,1,15.0,ID_EOIECRE2,Andromeda,Circinus,Home Win
+2017-08-29,1,196.0,ID_8CRFDQZA,Andromeda,Cartwheel,Away win
+2017-08-21,1,180.0,ID_CV7BOXYD,Andromeda,Coma Pinwheel,Away win
+2016-08-04,1,16.0,ID_X5UEAAIY,Andromeda,Comet,Home Win
+2017-03-07,1,17.0,ID_Z8TGBH41,Andromeda,Cosmos Redshift 7,Draw
+2016-09-28,1,18.0,ID_4CYGD80A,Andromeda,Fireworks,Draw
+2016-11-10,1,19.0,ID_XQMJ05QY,Andromeda,Medusa Merger,Home Win
+2017-02-01,1,20.0,ID_OW9Z59TM,Andromeda,Milky Way,Home Win
+2017-08-18,1,175.0,ID_QEHB6SP5,Butterfly,Andromeda,Draw
+2016-09-22,1,44.0,ID_UL9DKAH4,Cartwheel,Andromeda,Draw
+2016-08-11,1,54.0,ID_UFDKE17M,Sculptor,Andromeda,Home Win
+2016-10-01,1,62.0,ID_GU6BX7OY,Cigar,Andromeda,Home Win
+2017-01-03,1,103.0,ID_S6RUK5NW,Comet,Andromeda,Home Win
+2016-08-28,1,116.0,ID_VUN0XPN1,Cosmos Redshift 7,Andromeda,Draw
+2017-01-19,1,128.0,ID_XCHM541T,Eye of Sauron,Andromeda,Draw
+2017-08-24,1,188.0,ID_9QKWORXG,Medusa Merger,Andromeda,Home Win
+2016-11-05,1,160.0,ID_TLXXQLYC,Milky Way,Andromeda,Draw
+2017-12-16,2,46.0,ID_HPYKEW7R,Antennae,Andromeda,Away win
+2018-05-01,2,180.0,ID_IZLDEI78,Andromeda,Antennae,Away win
+2018-03-03,2,121.0,ID_UC7PMJ25,Andromeda,Backward,Draw
+2018-04-11,2,154.0,ID_5HWA04IU,Andromeda,Sculptor,Draw
+2018-03-20,2,133.0,ID_20BPYE4G,Andromeda,Cartwheel,Draw
+2018-05-19,2,201.0,ID_CHH8Y1BD,Andromeda,Sunflower,Home Win
+2018-01-30,2,95.0,ID_T1Q3B3GG,Andromeda,Comet,Home Win
+2018-02-02,2,101.0,ID_DEBRT4C8,Andromeda,Cosmos Redshift 7,Home Win
+2017-12-19,2,50.0,ID_9DPBXX3W,Andromeda,Medusa Merger,Draw
+2017-10-28,2,13.0,ID_DF19AH9G,Andromeda,Milky Way,Home Win
+2018-01-16,2,72.0,ID_K81P666R,Andromeda,Triangulum,Home Win
+2018-06-02,2,202.0,ID_UATYFRPS,Cigar,Andromeda,Home Win
+2018-01-24,2,86.0,ID_XDMKT9HU,Cartwheel,Andromeda,Home Win
+2017-11-28,2,41.0,ID_AO17ZS96,Sunflower,Andromeda,Draw
+2018-05-12,2,194.0,ID_OJUD1I32,Comet,Andromeda,Home Win
+2018-04-03,2,142.0,ID_IDEQCVEC,Tadpole,Andromeda,Draw
+2017-11-21,2,24.0,ID_04T9W310,Andromeda,Cigar,Draw
+2018-02-12,2,107.0,ID_YO3TBJ4R,Fireworks,Andromeda,Away win
+2018-04-28,2,172.0,ID_HHF8W6GO,Medusa Merger,Andromeda,Draw
+2018-04-21,2,176.0,ID_XEI81LPI,Milky Way,Andromeda,Away win
+2017-08-15,1,170.0,ID_CGX3THAU,Antennae,Backward,Draw
+2016-11-09,1,5.0,ID_P9QCOLI6,Antennae,Circinus,Away win
+2017-08-29,1,195.0,ID_OLMRL7BS,Antennae,Coma Pinwheel,Home Win
+2016-12-01,1,6.0,ID_0O3OGCB9,Antennae,Comet,Draw
+2017-02-02,1,8.0,ID_GOIGEZE8,Antennae,Eye of Sauron,Home Win
+2016-11-06,1,9.0,ID_R6SFPFV4,Antennae,Fireworks,Home Win
+2017-01-04,1,10.0,ID_YVMAC2WR,Antennae,Medusa Merger,Away win
+2017-01-12,1,11.0,ID_WX5LMCE5,Antennae,Milky Way,Away win
+2016-10-27,1,21.0,ID_KFK1U0BS,Backward,Antennae,Away win
+2017-08-21,1,181.0,ID_DKEDN070,Butterfly,Antennae,Home Win
+2017-01-08,1,43.0,ID_4VQVJS1O,Cartwheel,Antennae,Draw
+2016-12-22,1,53.0,ID_J5WBKEM3,Sculptor,Antennae,Away win
+2017-03-07,1,61.0,ID_7QNNI0YQ,Cigar,Antennae,Away win
+2017-02-28,1,72.0,ID_C1EA08ZR,Circinus,Antennae,Home Win
+2016-12-07,1,91.0,ID_66IWBNXT,Coma Pinwheel,Antennae,Draw
+2017-01-17,1,102.0,ID_5K4BCEUJ,Comet,Antennae,Home Win
+2017-01-25,1,115.0,ID_KDY6XYY0,Cosmos Redshift 7,Antennae,Home Win
+2016-11-26,1,148.0,ID_LTKK72S4,Medusa Merger,Antennae,Home Win
+2017-11-04,2,19.0,ID_1IQNQPAW,Antennae,Coma Pinwheel,Home Win
+2017-10-28,2,12.0,ID_1FEH4NFI,Sunflower,Antennae,Home Win
+2017-11-22,2,22.0,ID_CGFDXN9S,Medusa Merger,Antennae,Home Win
+2018-01-20,2,81.0,ID_OC87DVM9,Milky Way,Antennae,Draw
+2016-08-03,1,2.0,ID_Z71PIKP3,Antennae,Butterfly,Away win
+2016-10-01,1,3.0,ID_CEB18NBQ,Antennae,Cartwheel,Home Win
+2016-09-24,1,4.0,ID_ANK9DPJS,Antennae,Cigar,Away win
+2016-08-20,1,7.0,ID_HQC5KGL5,Antennae,Cosmos Redshift 7,Draw
+2016-08-27,1,80.0,ID_27YV4RRO,Sombrero,Antennae,Home Win
+2016-08-10,1,127.0,ID_KXGJ4N09,Eye of Sauron,Antennae,Home Win
+2016-09-28,1,159.0,ID_GKU067BE,Milky Way,Antennae,Home Win
+2018-01-29,2,93.0,ID_VLSQNHJS,Antennae,Fireworks,Home Win
+2018-01-23,2,221.0,ID_P0JSAPAH,Backward,Antennae,Away win
+2018-02-17,2,112.0,ID_R3I7GSLU,Cigar,Antennae,Away win
+2018-06-05,2,215.0,ID_BOI7CXJV,Comet,Antennae,Draw
+2018-05-11,2,191.0,ID_6IIQ4TZD,Antennae,Backward,Away win
+2018-02-02,2,100.0,ID_XNS4KRCK,Antennae,Sculptor,Home Win
+2018-01-13,2,69.0,ID_4WLLNCYX,Antennae,Cigar,Away win
+2017-12-20,2,52.0,ID_JP06JI0C,Antennae,Circinus,Home Win
+2017-11-28,2,97.0,ID_QIXKBR86,Antennae,Cartwheel,Draw
+2018-04-24,2,165.0,ID_OWJBAFBQ,Antennae,Sunflower,Home Win
+2018-04-21,2,161.0,ID_UKIMWWUK,Antennae,Medusa Merger,Draw
+2018-03-02,2,118.0,ID_24FZH22W,Antennae,Milky Way,Home Win
+2018-06-02,2,211.0,ID_96T3LR7R,Antennae,Tadpole,Home Win
+2018-04-21,2,159.0,ID_HYJCUA56,Antennae,Triangulum,Home Win
+2018-01-10,2,66.0,ID_68FWDT6H,Sculptor,Antennae,Draw
+2018-03-10,2,129.0,ID_WVFRCW5F,Circinus,Antennae,Away win
+2018-04-28,2,170.0,ID_II7DWVQR,Cartwheel,Antennae,Away win
+2018-04-04,2,220.0,ID_FWJMLGFB,Coma Pinwheel,Antennae,Away win
+2018-04-09,2,146.0,ID_72XLLS9T,Fireworks,Antennae,Away win
+2017-12-05,2,38.0,ID_DKYRY1VS,Triangulum,Antennae,Draw
+2018-02-14,2,106.0,ID_M840FM1K,Tadpole,Antennae,Draw
+2018-01-19,2,78.0,ID_OM37A8LR,Cigar,Triangulum,Home Win
+2017-11-29,2,36.0,ID_QWUGRXJI,Circinus,Triangulum,Draw
+2017-12-16,2,47.0,ID_JW43FR1J,Coma Pinwheel,Triangulum,Draw
+2018-02-12,2,108.0,ID_LCUC9FYE,Comet,Triangulum,Away win
+2017-10-28,2,11.0,ID_ENJWVMFU,Medusa Merger,Triangulum,Draw
+2018-05-12,2,192.0,ID_5KHVZBQE,Milky Way,Triangulum,Home Win
+2018-03-07,2,127.0,ID_8MCII6F1,Tadpole,Triangulum,Draw
+2017-11-22,2,26.0,ID_L3GUMYJ4,Triangulum,Backward,Home Win
+2018-05-04,2,186.0,ID_06QXUEYD,Triangulum,Cigar,Home Win
+2017-10-25,2,6.0,ID_A55NG93L,Triangulum,Sunflower,Draw
+2018-05-01,2,182.0,ID_9XCMP096,Triangulum,Coma Pinwheel,Away win
+2018-05-15,2,195.0,ID_R618L63O,Triangulum,Comet,Home Win
+2018-02-21,2,115.0,ID_XJ2WUU6R,Triangulum,Fireworks,Home Win
+2018-01-24,2,91.0,ID_Z8YAZGAP,Triangulum,Milky Way,Away win
+2017-09-05,1,207.0,ID_KST7PRMU,Backward,Cigar,Draw
+2017-08-22,1,184.0,ID_2QSZ4K64,Backward,Circinus,Away win
+2017-03-07,1,25.0,ID_8DEUQQUO,Backward,Coma Pinwheel,Home Win
+2017-01-26,1,26.0,ID_MWRHCSMW,Backward,Comet,Home Win
+2016-12-07,1,27.0,ID_NXCBXYUJ,Backward,Cosmos Redshift 7,Draw
+2017-01-11,1,28.0,ID_AT1RY70Q,Backward,Eye of Sauron,Home Win
+2016-12-21,1,29.0,ID_PSLB87BL,Backward,Fireworks,Away win
+2016-11-06,1,30.0,ID_00J124MI,Backward,Medusa Merger,Draw
+2017-01-05,1,45.0,ID_K7L28JTT,Cartwheel,Backward,Home Win
+2016-12-01,1,73.0,ID_UXJDXX9L,Circinus,Backward,Draw
+2017-02-01,1,81.0,ID_Q3TLZ0NB,Sombrero,Backward,Home Win
+2016-11-09,1,129.0,ID_ZE3J281E,Eye of Sauron,Backward,Away win
+2017-01-17,1,163.0,ID_XWV89SWE,Fireworks,Backward,Home Win
+2017-08-30,1,199.0,ID_CT02DQO5,Medusa Merger,Backward,Away win
+2017-09-02,1,203.0,ID_ICUXU3S2,Milky Way,Backward,Home Win
+2016-08-03,1,22.0,ID_T12UUJG7,Backward,Cartwheel,Draw
+2016-08-06,1,32.0,ID_KYEZ4Q5U,Butterfly,Backward,Away win
+2017-08-18,1,176.0,ID_VU4MWMEQ,Cosmos Redshift 7,Backward,Draw
+2017-12-06,2,39.0,ID_ZZKYYPVY,Backward,Circinus,Home Win
+2018-01-31,2,98.0,ID_QNZG9PEU,Backward,Cartwheel,Draw
+2018-04-28,2,171.0,ID_HZKCT0PI,Backward,Sunflower,Away win
+2018-02-20,2,116.0,ID_ZWJJP6T6,Backward,Coma Pinwheel,Home Win
+2018-06-02,2,210.0,ID_K3VPZMW2,Backward,Cosmos Redshift 7,Away win
+2018-03-10,2,131.0,ID_D2JPKHY3,Backward,Fireworks,Away win
+2018-01-09,2,65.0,ID_AJQ6AXK8,Backward,Medusa Merger,Away win
+2017-12-20,2,54.0,ID_Y1N9XWDE,Backward,Milky Way,Away win
+2018-05-18,2,197.0,ID_DVUF7IYI,Backward,Triangulum,Draw
+2018-01-26,2,89.0,ID_T31AU81S,Cigar,Backward,Draw
+2018-04-20,2,158.0,ID_DTTQRNE4,Circinus,Backward,Away win
+2018-04-03,2,140.0,ID_RAT7AK8R,Cartwheel,Backward,Draw
+2018-01-05,2,222.0,ID_YO6NFBHZ,Sunflower,Backward,Draw
+2017-10-27,2,9.0,ID_58IZEI5C,Coma Pinwheel,Backward,Away win
+2018-04-23,2,163.0,ID_MI4W134C,Comet,Backward,Draw
+2018-01-20,2,90.0,ID_8JROBJ91,Fireworks,Backward,Away win
+2018-02-17,2,111.0,ID_EWEN4C0N,Medusa Merger,Backward,Home Win
+2018-05-01,2,183.0,ID_8O8VRN8A,Milky Way,Backward,Draw
+2017-10-24,2,1.0,ID_1ZPA9XMX,Backward,Comet,Home Win
+2017-11-25,2,30.0,ID_HV2F2U3U,Sculptor,Coma Pinwheel,Home Win
+2017-12-09,2,42.0,ID_UGM73VHI,Cigar,Coma Pinwheel,Draw
+2018-05-26,2,204.0,ID_0OR30CC4,Coma Pinwheel,Cigar,Home Win
+2018-01-30,2,103.0,ID_ZYI3C0HF,Coma Pinwheel,Sunflower,Away win
+2017-11-21,2,28.0,ID_AQD3YVMC,Coma Pinwheel,Comet,Home Win
+2018-04-21,2,162.0,ID_Z669YURL,Coma Pinwheel,Fireworks,Draw
+2018-04-24,2,166.0,ID_KLXJD2ZC,Coma Pinwheel,Milky Way,Draw
+2018-05-06,2,188.0,ID_JN1VLXHD,Cosmos Redshift 7,Coma Pinwheel,Home Win
+2018-01-08,2,62.0,ID_G4CN5BNX,Fireworks,Coma Pinwheel,Draw
+2016-08-25,1,23.0,ID_KKRFBDM9,Backward,Sculptor,Draw
+2016-09-22,1,24.0,ID_R6C3GV9H,Backward,Sombrero,Away win
+2016-08-28,1,31.0,ID_G78FOQYQ,Backward,Milky Way,Away win
+2016-09-28,1,63.0,ID_5Y6WIRCG,Cigar,Backward,Home Win
+2016-09-15,1,92.0,ID_ZE7D4JAP,Coma Pinwheel,Backward,Away win
+2016-10-02,1,104.0,ID_HB9WSKP9,Comet,Backward,Home Win
+2017-08-30,1,198.0,ID_J15AKP1H,Butterfly,Cigar,Home Win
+2016-08-28,1,40.0,ID_QEMTT0ST,Butterfly,Fireworks,Home Win
+2017-08-27,1,190.0,ID_F19EBYGB,Sculptor,Butterfly,Draw
+2017-09-02,1,201.0,ID_LL4GFXCN,Coma Pinwheel,Butterfly,Home Win
+2017-08-24,1,187.0,ID_E7000EMK,Comet,Butterfly,Draw
+2017-08-15,1,168.0,ID_ZP3MIG6N,Cosmos Redshift 7,Butterfly,Draw
+2016-08-14,1,130.0,ID_ZWPPN4W1,Eye of Sauron,Butterfly,Away win
+2017-01-04,1,139.0,ID_12945FWD,Fireworks,Butterfly,Away win
+2017-01-07,1,149.0,ID_VAG7G5IC,Medusa Merger,Butterfly,Draw
+2017-10-25,2,7.0,ID_GP3WNMQH,Fireworks,Tadpole,Draw
+2017-10-28,2,15.0,ID_XMM4Z5EZ,Tadpole,Sculptor,Home Win
+2016-12-20,1,33.0,ID_UMASWHEF,Butterfly,Cartwheel,Home Win
+2017-03-07,1,35.0,ID_DXFDO3HX,Butterfly,Circinus,Draw
+2017-02-19,1,36.0,ID_ZWD4FQ05,Butterfly,Sombrero,Draw
+2017-03-10,1,37.0,ID_WPAZXG4Y,Butterfly,Coma Pinwheel,Home Win
+2017-02-12,1,38.0,ID_2FUAPJ5S,Butterfly,Comet,Away win
+2016-09-21,1,39.0,ID_RROBJ38Y,Butterfly,Cosmos Redshift 7,Home Win
+2016-12-17,1,41.0,ID_9KVVOCR6,Butterfly,Medusa Merger,Draw
+2016-11-08,1,42.0,ID_00EFNL7L,Butterfly,Milky Way,Away win
+2016-11-26,1,82.0,ID_0TIEZ7MG,Sombrero,Butterfly,Draw
+2017-02-28,1,161.0,ID_826SG25P,Milky Way,Butterfly,Home Win
+2017-01-15,1,34.0,ID_3LDF38RP,Butterfly,Sculptor,Home Win
+2017-01-18,1,46.0,ID_G2O8B9R9,Cartwheel,Butterfly,Home Win
+2017-08-12,1,165.0,ID_QVW81QWH,Cigar,Butterfly,Draw
+2017-11-21,2,25.0,ID_U3SD7K1V,Cosmos Redshift 7,Milky Way,Home Win
+2017-11-04,2,20.0,ID_KSFJ2RGK,Sculptor,Cosmos Redshift 7,Away win
+2017-12-05,2,152.0,ID_9JEI8DWV,Cartwheel,Cosmos Redshift 7,Draw
+2018-01-17,2,75.0,ID_34HDKVFW,Coma Pinwheel,Cosmos Redshift 7,Home Win
+2017-12-16,2,45.0,ID_XOSYZEG8,Cosmos Redshift 7,Circinus,Home Win
+2017-10-28,2,10.0,ID_8W85GO7G,Cosmos Redshift 7,Fireworks,Draw
+2018-01-10,2,67.0,ID_IS5PC7WP,Cosmos Redshift 7,Tadpole,Draw
+2018-06-05,2,218.0,ID_WJ12QQ71,Cosmos Redshift 7,Triangulum,Draw
+2018-01-02,2,57.0,ID_7XQJ4ZA4,Medusa Merger,Cosmos Redshift 7,Home Win
+2018-04-04,2,143.0,ID_5H9QBQMQ,Sculptor,Sunflower,Home Win
+2018-02-20,2,136.0,ID_45M9BNQO,Circinus,Sunflower,Draw
+2017-12-19,2,55.0,ID_5X8VFC64,Cartwheel,Sunflower,Home Win
+2018-02-24,2,117.0,ID_A1ARNO3H,Sunflower,Sculptor,Home Win
+2018-06-05,2,213.0,ID_NFRZQ99K,Sunflower,Cigar,Away win
+2018-01-16,2,87.0,ID_5KQZOTHQ,Sunflower,Circinus,Away win
+2018-05-01,2,184.0,ID_YGN8TPQ5,Sunflower,Cartwheel,Home Win
+2018-03-10,2,138.0,ID_8ITGS2P3,Sunflower,Coma Pinwheel,Home Win
+2018-03-20,2,134.0,ID_XWI57Q9K,Sunflower,Comet,Away win
+2017-12-06,2,40.0,ID_DKNFRR94,Sunflower,Fireworks,Away win
+2018-05-09,2,189.0,ID_9NX3Y6RK,Sunflower,Medusa Merger,Away win
+2018-01-09,2,63.0,ID_ODJJ0THO,Sunflower,Milky Way,Away win
+2018-03-02,2,137.0,ID_RNR88WYL,Sunflower,Tadpole,Home Win
+2018-04-10,2,148.0,ID_9AKIA9XC,Sunflower,Triangulum,Away win
+2018-01-20,2,79.0,ID_SREWU5C6,Comet,Sunflower,Away win
+2018-01-26,2,88.0,ID_CFNRNH31,Cosmos Redshift 7,Sunflower,Draw
+2018-06-02,2,216.0,ID_ILDWDPY2,Fireworks,Sunflower,Draw
+2017-12-15,2,48.0,ID_F60AZ116,Medusa Merger,Sunflower,Home Win
+2018-03-05,2,123.0,ID_3WQ0X2RV,Milky Way,Sunflower,Draw
+2017-11-21,2,23.0,ID_7MS32IW5,Tadpole,Sunflower,Draw
+2018-01-23,2,84.0,ID_0A2WEVY3,Comet,Cosmos Redshift 7,Away win
+2018-03-21,2,135.0,ID_O7S3MLNP,Cigar,Cosmos Redshift 7,Home Win
+2018-03-06,2,124.0,ID_DBF91Z88,Circinus,Cosmos Redshift 7,Away win
+2018-03-02,2,119.0,ID_65XZO9R3,Cosmos Redshift 7,Sculptor,Home Win
+2018-01-30,2,94.0,ID_APRR2449,Cosmos Redshift 7,Cigar,Home Win
+2018-02-09,2,104.0,ID_22R4A4OV,Cosmos Redshift 7,Cartwheel,Home Win
+2018-04-18,2,156.0,ID_T7W4WKY9,Cosmos Redshift 7,Comet,Home Win
+2018-05-02,2,185.0,ID_LEL3JT8E,Cosmos Redshift 7,Medusa Merger,Away win
+2018-05-11,2,190.0,ID_3NW5KUQ3,Fireworks,Cosmos Redshift 7,Draw
+2018-02-24,2,151.0,ID_0PBGEMAI,Milky Way,Cosmos Redshift 7,Draw
+2018-01-13,2,68.0,ID_38GWYHWI,Triangulum,Cosmos Redshift 7,Away win
+2018-04-06,2,224.0,ID_BJHEDY9T,Cigar,Fireworks,Draw
+2018-05-01,2,181.0,ID_3CWKIG2G,Circinus,Fireworks,Home Win
+2018-03-06,2,125.0,ID_OQM43U7K,Cartwheel,Fireworks,Away win
+2017-12-18,2,49.0,ID_O4H6XGB4,Comet,Fireworks,Draw
+2018-04-24,2,175.0,ID_1D1X4PFB,Fireworks,Sculptor,Draw
+2018-01-23,2,223.0,ID_UL4NP2IJ,Fireworks,Cigar,Draw
+2017-11-21,2,27.0,ID_HCCBAPTP,Fireworks,Circinus,Home Win
+2017-12-15,2,44.0,ID_WGM9ZTJ3,Fireworks,Cartwheel,Away win
+2018-04-27,2,169.0,ID_KC53ZIHC,Fireworks,Comet,Away win
+2018-03-13,2,130.0,ID_NER74N7H,Fireworks,Medusa Merger,Away win
+2018-03-19,2,132.0,ID_4LTRF5VB,Fireworks,Milky Way,Draw
+2018-01-05,2,61.0,ID_W25SLQ7X,Fireworks,Triangulum,Home Win
+2017-11-28,2,33.0,ID_KLAHLZBN,Medusa Merger,Fireworks,Home Win
+2017-11-04,2,21.0,ID_IZ8B4OAH,Milky Way,Fireworks,Home Win
+2018-05-18,2,198.0,ID_21SVBXLQ,Tadpole,Fireworks,Draw
+2018-06-02,2,209.0,ID_WOXKZITI,Sculptor,Medusa Merger,Away win
+2017-10-24,2,4.0,ID_THU0JYSJ,Cigar,Medusa Merger,Away win
+2018-01-31,2,99.0,ID_36NZ9IU5,Medusa Merger,Circinus,Home Win
+2018-06-05,2,214.0,ID_NEG8CDCD,Medusa Merger,Cartwheel,Home Win
+2018-03-21,2,139.0,ID_ROVPAHRR,Medusa Merger,Coma Pinwheel,Draw
+2018-05-29,2,206.0,ID_1B6FP9H5,Tadpole,Medusa Merger,Draw
+2016-08-27,1,47.0,ID_ZOW0PTN6,Cartwheel,Cigar,Away win
+2016-12-07,1,48.0,ID_O30PXNS2,Cartwheel,Circinus,Away win
+2016-11-30,1,49.0,ID_35M6T9JZ,Cartwheel,Sombrero,Draw
+2016-10-25,1,50.0,ID_WZASJ4IV,Cartwheel,Comet,Away win
+2017-08-23,1,185.0,ID_KYVAXN0B,Cartwheel,Cosmos Redshift 7,Home Win
+2016-11-06,1,51.0,ID_5XNJBBBU,Cartwheel,Eye of Sauron,Home Win
+2018-05-12,2,196.0,ID_V891OYVP,Sculptor,Cartwheel,Draw
+2016-11-10,1,93.0,ID_7DRHHPZK,Coma Pinwheel,Cartwheel,Home Win
+2016-09-28,1,117.0,ID_JMKNLEUZ,Cosmos Redshift 7,Cartwheel,Draw
+2016-08-20,1,150.0,ID_H27PCYW4,Medusa Merger,Cartwheel,Draw
+2016-09-14,1,162.0,ID_QMJBCJTO,Milky Way,Cartwheel,Draw
+2017-10-24,2,3.0,ID_42WQ2WIV,Cartwheel,Circinus,Draw
+2018-03-03,2,120.0,ID_NO60D4TO,Circinus,Cartwheel,Draw
+2017-11-22,2,35.0,ID_BJ2VX0EX,Cartwheel,Sculptor,Home Win
+2018-01-16,2,73.0,ID_2QNA7OQE,Cartwheel,Cigar,Away win
+2018-06-02,2,208.0,ID_CW6K7CPC,Cartwheel,Coma Pinwheel,Home Win
+2018-05-19,2,200.0,ID_9V68FI7L,Cartwheel,Comet,Draw
+2017-11-04,2,17.0,ID_40BVMU42,Cartwheel,Medusa Merger,Away win
+2018-04-10,2,147.0,ID_T4Q5NGSF,Cartwheel,Milky Way,Home Win
+2018-02-21,2,114.0,ID_M7QACJDH,Cartwheel,Tadpole,Draw
+2018-04-24,2,174.0,ID_J9I1S6T7,Cartwheel,Triangulum,Home Win
+2017-10-28,2,14.0,ID_I14RAYEM,Comet,Cartwheel,Away win
+2018-02-13,2,109.0,ID_R803GAI9,Milky Way,Cartwheel,Home Win
+2018-01-05,2,59.0,ID_I7AY16R0,Tadpole,Cartwheel,Home Win
+2017-01-11,1,89.0,ID_QIS7V5IV,Sombrero,Fireworks,Away win
+2017-02-02,1,100.0,ID_CNPU22AH,Coma Pinwheel,Fireworks,Home Win
+2018-01-27,2,92.0,ID_7HNMFC11,Coma Pinwheel,Medusa Merger,Away win
+2017-01-07,1,140.0,ID_JGPD54X5,Fireworks,Sculptor,Away win
+2017-08-28,1,192.0,ID_EIIQ4HJL,Fireworks,Circinus,Draw
+2017-01-25,1,145.0,ID_6KO0SC5W,Fireworks,Eye of Sauron,Home Win
+2017-03-11,1,146.0,ID_PDW4BNW1,Fireworks,Medusa Merger,Away win
+2017-02-14,1,147.0,ID_OC055HAA,Fireworks,Milky Way,Home Win
+2018-06-05,2,212.0,ID_C28GUZGL,Coma Pinwheel,Sculptor,Draw
+2017-12-20,2,53.0,ID_OE2XOG04,Coma Pinwheel,Tadpole,Away win
+2018-03-02,2,122.0,ID_QZLKZJ16,Comet,Coma Pinwheel,Home Win
+2018-04-11,2,150.0,ID_1ED799VW,Tadpole,Coma Pinwheel,Home Win
+2017-08-17,1,173.0,ID_KAHZNQZ4,Cartwheel,Medusa Merger,Home Win
+2017-01-12,1,64.0,ID_46UP27C8,Cigar,Cartwheel,Home Win
+2017-08-14,1,166.0,ID_7YEZ3VK0,Circinus,Cartwheel,Away win
+2017-01-31,1,105.0,ID_9NG7M7IH,Comet,Cartwheel,Draw
+2017-02-16,1,131.0,ID_1KKTGS75,Eye of Sauron,Cartwheel,Home Win
+2016-08-10,1,52.0,ID_T64ZJ5ZU,Cartwheel,Fireworks,Home Win
+2017-12-05,2,34.0,ID_Q5C5K59A,Comet,Medusa Merger,Draw
+2018-01-19,2,77.0,ID_Y86ZTX6M,Medusa Merger,Sculptor,Draw
+2018-04-25,2,167.0,ID_SXSLZSI1,Medusa Merger,Cigar,Away win
+2018-05-26,2,203.0,ID_JYOCIVGT,Medusa Merger,Milky Way,Home Win
+2018-01-23,2,85.0,ID_A2FD42KH,Medusa Merger,Tadpole,Draw
+2018-01-16,2,71.0,ID_XJWVEY79,Milky Way,Medusa Merger,Draw
+2017-08-19,1,178.0,ID_QAJGGM73,Sculptor,Cigar,Home Win
+2016-12-07,1,65.0,ID_39S61786,Cigar,Sculptor,Home Win
+2017-09-02,1,202.0,ID_UCWLCAW5,Cigar,Circinus,Home Win
+2016-08-10,1,67.0,ID_LXRTEQO2,Cigar,Coma Pinwheel,Home Win
+2017-02-15,1,68.0,ID_DPPFAJ6O,Cigar,Comet,Away win
+2016-11-09,1,69.0,ID_7HRBFGSB,Cigar,Cosmos Redshift 7,Home Win
+2016-09-14,1,70.0,ID_F1CNSJBO,Cigar,Eye of Sauron,Away win
+2017-08-23,1,186.0,ID_VVG172LB,Cigar,Fireworks,Draw
+2017-08-27,1,191.0,ID_D4WOYK9B,Cigar,Medusa Merger,Away win
+2016-08-24,1,71.0,ID_SSBUAMO7,Cigar,Milky Way,Draw
+2016-08-04,1,84.0,ID_L76JBE84,Sombrero,Cigar,Away win
+2017-02-28,1,119.0,ID_WASR8LFE,Cosmos Redshift 7,Cigar,Away win
+2017-08-15,1,169.0,ID_MWHDDOC0,Eye of Sauron,Cigar,Away win
+2016-11-27,1,141.0,ID_ZLWVE54E,Fireworks,Cigar,Away win
+2016-10-27,1,152.0,ID_PMX7KBOK,Medusa Merger,Cigar,Away win
+2017-01-04,1,208.0,ID_ZL8511XW,Milky Way,Cigar,Home Win
+2018-05-01,2,179.0,ID_NQK2S2JO,Sculptor,Cigar,Draw
+2018-04-28,2,173.0,ID_UXUK6H9F,Cigar,Circinus,Away win
+2018-05-12,2,193.0,ID_K830M6NE,Cigar,Tadpole,Draw
+2017-10-27,2,8.0,ID_DC2OE4J0,Circinus,Cigar,Away win
+2018-03-10,2,128.0,ID_1TGCIK70,Comet,Cigar,Draw
+2017-01-08,1,66.0,ID_G87HE5T9,Cigar,Sombrero,Home Win
+2017-01-18,1,95.0,ID_OT3MQDZC,Coma Pinwheel,Cigar,Draw
+2016-12-22,1,108.0,ID_DL7257PH,Comet,Cigar,Draw
+2016-11-06,1,74.0,ID_N6FOPL2Y,Circinus,Cigar,Away win
+2018-01-09,2,64.0,ID_4X3QDC8P,Cigar,Comet,Away win
+2017-12-19,2,51.0,ID_MUYK98UO,Cigar,Sculptor,Draw
+2017-11-24,2,29.0,ID_IUV7FU2U,Tadpole,Cigar,Home Win
+2018-04-06,2,145.0,ID_PGGWBZ29,Triangulum,Medusa Merger,Away win
+2018-04-20,2,157.0,ID_STX8TIE2,Sculptor,Tadpole,Draw
+2018-01-13,2,70.0,ID_GUGKLLI9,Milky Way,Sculptor,Home Win
+2017-08-18,1,174.0,ID_S2DH4W65,Circinus,Sombrero,Draw
+2017-01-11,1,75.0,ID_XIRRA7RV,Circinus,Comet,Draw
+2017-02-01,1,76.0,ID_TN3U4DC4,Circinus,Cosmos Redshift 7,Away win
+2016-08-03,1,77.0,ID_IDJ1L6GL,Circinus,Fireworks,Draw
+2016-08-14,1,78.0,ID_628MNEH9,Circinus,Medusa Merger,Draw
+2016-12-21,1,79.0,ID_EKI17JGO,Circinus,Milky Way,Home Win
+2017-01-08,1,96.0,ID_2947LQTO,Coma Pinwheel,Circinus,Away win
+2017-02-15,1,153.0,ID_R9WWGZ6K,Medusa Merger,Circinus,Home Win
+2017-01-24,1,164.0,ID_0SXG1LVI,Milky Way,Circinus,Home Win
+2017-11-03,2,16.0,ID_HT3DTAG1,Circinus,Comet,Home Win
+2016-10-26,1,85.0,ID_21BTFEL5,Sombrero,Circinus,Home Win
+2016-09-27,1,109.0,ID_Q05IUX5U,Comet,Circinus,Home Win
+2016-09-14,1,120.0,ID_W3F61OZ8,Cosmos Redshift 7,Circinus,Home Win
+2018-02-13,2,110.0,ID_EWTPLPQM,Sculptor,Circinus,Draw
+2018-05-18,2,199.0,ID_ZJ5I8APD,Circinus,Sculptor,Away win
+2018-04-12,2,153.0,ID_FH7XN5HK,Circinus,Medusa Merger,Away win
+2018-06-05,2,219.0,ID_4PB4VL5Q,Circinus,Milky Way,Draw
+2018-04-03,2,141.0,ID_T9ASGHM0,Comet,Circinus,Home Win
+2018-01-06,2,60.0,ID_YXXCNK2G,Milky Way,Circinus,Draw
+2018-01-20,2,80.0,ID_UHMPXW5E,Tadpole,Circinus,Draw
+2017-01-05,1,86.0,ID_6K7LRVTC,Sombrero,Coma Pinwheel,Home Win
+2016-09-29,1,94.0,ID_AO08Y8FZ,Coma Pinwheel,Sculptor,Home Win
+2017-08-16,1,172.0,ID_OIZQHOLE,Coma Pinwheel,Comet,Home Win
+2017-02-16,1,98.0,ID_58Y3YYGP,Coma Pinwheel,Cosmos Redshift 7,Away win
+2017-08-25,1,189.0,ID_WX90Q0Q3,Coma Pinwheel,Milky Way,Away win
+2016-08-28,1,111.0,ID_7KQ7M6CR,Comet,Coma Pinwheel,Away win
+2016-12-21,1,122.0,ID_RJZDWDAU,Cosmos Redshift 7,Coma Pinwheel,Home Win
+2017-03-01,1,133.0,ID_0OPXV0TY,Eye of Sauron,Coma Pinwheel,Home Win
+2016-09-21,1,138.0,ID_897S67BZ,Fireworks,Coma Pinwheel,Draw
+2016-08-24,1,97.0,ID_ZF8TL0GP,Coma Pinwheel,Sombrero,Draw
+2016-08-04,1,99.0,ID_H0Q7JNV1,Coma Pinwheel,Eye of Sauron,Away win
+2017-09-05,1,205.0,ID_ULFMIS9R,Medusa Merger,Coma Pinwheel,Home Win
+2017-01-12,1,56.0,ID_7GHLYGYV,Sculptor,Coma Pinwheel,Home Win
+2017-10-24,2,2.0,ID_VACHXR44,Milky Way,Coma Pinwheel,Home Win
+2018-01-30,2,96.0,ID_UY24QO9Y,Milky Way,Tadpole,Draw
+2017-12-15,2,56.0,ID_42DWN5QA,Tadpole,Comet,Home Win
+2017-08-29,1,193.0,ID_33AOLMD8,Sombrero,Comet,Draw
+2016-11-08,1,107.0,ID_EK4VZ52Q,Comet,Sculptor,Draw
+2017-03-06,1,112.0,ID_BBYSJZ7Z,Comet,Eye of Sauron,Home Win
+2017-02-28,1,113.0,ID_CAO3DHF3,Comet,Fireworks,Home Win
+2017-08-21,1,182.0,ID_WQ6K1M6J,Comet,Medusa Merger,Draw
+2016-12-08,1,134.0,ID_JL0A7NYU,Eye of Sauron,Comet,Away win
+2016-08-25,1,143.0,ID_F04XYXNO,Fireworks,Comet,Draw
+2017-01-08,1,166.0,ID_WH4S1N9Q,Milky Way,Comet,Draw
+2018-01-02,2,58.0,ID_G5EFF75Z,Comet,Sculptor,Home Win
+2017-11-27,2,31.0,ID_ENOCMDPI,Comet,Milky Way,Away win
+2016-08-09,1,110.0,ID_UWJ3YGHF,Comet,Sombrero,Draw
+2016-11-27,1,114.0,ID_8JTQDHX3,Comet,Milky Way,Away win
+2016-11-05,1,124.0,ID_2V7QGMM2,Cosmos Redshift 7,Comet,Draw
+2016-09-21,1,155.0,ID_IXRGB6OV,Medusa Merger,Comet,Home Win
+2018-04-30,2,178.0,ID_T5467PO8,Comet,Tadpole,Draw
+2018-05-05,2,187.0,ID_MWCIADS6,Medusa Merger,Comet,Home Win
+2018-06-02,2,217.0,ID_9V6TAYFV,Milky Way,Comet,Home Win
+2018-03-06,2,126.0,ID_40OQTBJ8,Sculptor,Comet,Draw
+2017-02-15,1,83.0,ID_Q4V1C0YI,Sombrero,Sculptor,Home Win
+2017-08-14,1,167.0,ID_JFK7XPYK,Sombrero,Medusa Merger,Draw
+2017-03-08,1,90.0,ID_WDA74NYV,Sombrero,Milky Way,Away win
+2017-01-18,1,121.0,ID_FHG03TE0,Cosmos Redshift 7,Sombrero,Home Win
+2017-08-22,1,183.0,ID_B8MME8GP,Eye of Sauron,Sombrero,Draw
+2016-11-09,1,142.0,ID_S7T4YYCU,Fireworks,Sombrero,Draw
+2016-10-30,1,60.0,ID_1LEM1AAP,Sculptor,Milky Way,Draw
+2016-09-21,1,137.0,ID_0M5K2L1J,Eye of Sauron,Milky Way,Home Win
+2016-08-03,1,158.0,ID_WT3PHABY,Medusa Merger,Milky Way,Home Win
+2016-12-06,1,212.0,ID_24HKPKQH,Milky Way,Sombrero,Home Win
+2016-08-14,1,210.0,ID_QRQCZ4Z4,Milky Way,Cosmos Redshift 7,Home Win
+2017-08-19,1,177.0,ID_YYCO8ZBA,Milky Way,Eye of Sauron,Home Win
+2016-11-30,1,211.0,ID_QGNRR2WQ,Milky Way,Fireworks,Draw
+2017-01-19,1,169.0,ID_PBG2XS57,Milky Way,Medusa Merger,Away win
+2016-08-03,1,118.0,ID_J1010ZTT,Cosmos Redshift 7,Sculptor,Home Win
+2017-01-15,1,126.0,ID_2E3951AN,Cosmos Redshift 7,Medusa Merger,Home Win
+2017-01-07,1,135.0,ID_XW18HGR9,Eye of Sauron,Cosmos Redshift 7,Away win
+2017-08-11,1,209.0,ID_OZKQYKQF,Medusa Merger,Cosmos Redshift 7,Draw
+2016-11-26,1,125.0,ID_D801VVTI,Cosmos Redshift 7,Eye of Sauron,Home Win
+2017-01-04,1,57.0,ID_Y1FWWSBP,Sculptor,Cosmos Redshift 7,Draw
+2016-10-26,1,144.0,ID_LRWZVXJZ,Fireworks,Cosmos Redshift 7,Home Win
+2017-09-02,1,204.0,ID_GPZBRVUQ,Eye of Sauron,Medusa Merger,Away win
+2016-12-21,1,156.0,ID_U2DPW95R,Medusa Merger,Eye of Sauron,Home Win
+2016-12-11,1,157.0,ID_2KH2XHCH,Medusa Merger,Fireworks,Home Win
+2016-10-29,1,87.0,ID_PYUUJ5M3,Sombrero,Cosmos Redshift 7,Away win
+2017-09-05,1,206.0,ID_SQB73VYU,Cosmos Redshift 7,Fireworks,Home Win
+2016-09-29,1,88.0,ID_HPTFSC3K,Sombrero,Eye of Sauron,Home Win
+2017-08-30,1,197.0,ID_XMQ5NR2G,Sculptor,Eye of Sauron,Draw
+2016-11-30,1,132.0,ID_LEBJ75LN,Eye of Sauron,Sculptor,Away win
+2016-10-02,1,136.0,ID_QZMTM1LI,Eye of Sauron,Fireworks,Away win
+2018-04-27,2,168.0,ID_0DQCXCXH,Tadpole,Milky Way,Draw
+2016-09-15,1,58.0,ID_T62C8AP0,Sculptor,Fireworks,Home Win
+2016-08-28,1,59.0,ID_PREVA6HZ,Sculptor,Medusa Merger,Away win
+2017-02-19,1,151.0,ID_9DJ219JY,Medusa Merger,Sculptor,Home Win
+2016-10-23,1,154.0,ID_A1PN23J6,Medusa Merger,Sombrero,Home Win
+2017-08-16,1,171.0,ID_XFQO60PZ,Milky Way,Sculptor,Draw
+2018-02-09,2,105.0,ID_VTVBHCO7,Sculptor,Milky Way,Home Win

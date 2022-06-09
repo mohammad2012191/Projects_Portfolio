@@ -1,0 +1,235 @@
+Date,Season,Match_ID,Game_ID,Home Team,Away Team
+2018-12-08,3,102.0,ID_8518U587,Antennae,Cosmos Redshift 7
+2018-09-11,3,18.0,ID_H49BIKG7,Cosmos Redshift 7,Tadpole
+2018-09-25,3,32.0,ID_PO6SP4VA,Cosmos Redshift 7,Medusa Merger
+2018-10-02,3,40.0,ID_MZRCNBAQ,Cartwheel,Cosmos Redshift 7
+2018-12-20,3,123.0,ID_CV9VOLIU,Cosmos Redshift 7,Needle
+2018-12-23,3,128.0,ID_EP02V6O9,Cosmos Redshift 7,Antennae
+2018-12-17,3,115.0,ID_D1BKOMNB,Medusa Merger,Cosmos Redshift 7
+2018-11-20,3,77.0,ID_GGFY5Z38,Andromeda,Cosmos Redshift 7
+2018-11-06,3,69.0,ID_YQ6DCSJJ,Cigar,Cosmos Redshift 7
+2018-09-18,3,28.0,ID_ZIMAODWU,Circinus,Cosmos Redshift 7
+2019-02-16,3,136.0,ID_H6V0DHCM,Cosmos Redshift 7,Andromeda
+2018-12-11,3,104.0,ID_EFUM1IB3,Cosmos Redshift 7,Sunflower
+2018-09-25,3,35.0,ID_7H9RUYR2,Antennae,Backward
+2018-10-02,3,39.0,ID_7JTHUMTF,Antennae,Cigar
+2018-10-19,3,50.0,ID_VZDE4BA3,Sunflower,Antennae
+2018-09-22,3,30.0,ID_1Y735BT9,Andromeda,Antennae
+2018-10-27,3,58.0,ID_C51DS9XE,Malin 1,Antennae
+2018-11-20,3,80.0,ID_EEAWBOYL,Fireworks,Antennae
+2018-11-24,3,82.0,ID_OKHY3GBQ,Cigar,Antennae
+2018-11-04,3,67.0,ID_JKJP61NL,Antennae,Needle
+2018-12-04,3,96.0,ID_ZRZC49M1,Antennae,Whirlpool
+2018-12-14,3,112.0,ID_NQGKKQRG,Antennae,Circinus
+2018-12-17,3,114.0,ID_KL74YZ1W,Needle,Antennae
+2018-12-20,3,122.0,ID_D4BBONMS,Antennae,Medusa Merger
+2018-12-11,3,124.0,ID_E4NAVOHG,Circinus,Antennae
+2019-02-22,3,141.0,ID_8AKT073X,Antennae,Sunflower
+2019-03-02,3,149.0,ID_SGHWIP1E,Antennae,Fireworks
+2019-03-05,3,153.0,ID_OHS6RR07,Milky Way,Antennae
+2018-08-25,3,11.0,ID_0BFR12C0,Antennae,Tadpole
+2018-10-03,3,44.0,ID_O3EQ8WEA,Medusa Merger,Tadpole
+2018-11-03,3,65.0,ID_PD70LTRE,Medusa Merger,Comet
+2018-11-07,3,73.0,ID_B9JSESNH,Needle,Medusa Merger
+2018-11-20,3,75.0,ID_7ZQ7E7Q2,Cartwheel,Medusa Merger
+2019-03-02,3,148.0,ID_S2ZLOYQU,Sunflower,Medusa Merger
+2019-04-27,3,188.0,ID_UUQYAGBP,Medusa Merger,Cartwheel
+2019-05-03,3,192.0,ID_2BHM1MAF,Malin 1,Medusa Merger
+2019-05-08,3,201.0,ID_2B96PJLU,Cigar,Medusa Merger
+2019-05-23,3,214.0,ID_QKWD8147,Whirlpool,Medusa Merger
+2018-10-23,3,55.0,ID_NMRV6S78,Cartwheel,Andromeda
+2018-09-11,3,21.0,ID_NQX0L8NJ,Sunflower,Andromeda
+2018-09-25,3,34.0,ID_GGRLN92Z,Malin 1,Andromeda
+2018-10-20,3,51.0,ID_8LEIJZJI,Andromeda,Medusa Merger
+2018-11-06,3,74.0,ID_H4WRH27A,Fireworks,Andromeda
+2018-11-28,3,92.0,ID_TRN20YF5,Andromeda,Backward
+2019-02-25,3,142.0,ID_313CQJ6L,Comet,Andromeda
+2019-03-19,3,159.0,ID_60EADYBI,Cigar,Andromeda
+2019-04-02,3,163.0,ID_4Q60CD7W,Andromeda,Milky Way
+2019-04-06,3,173.0,ID_LWI3010X,Andromeda,Fireworks
+2019-04-12,3,174.0,ID_N4FNUPW8,Medusa Merger,Andromeda
+2018-08-21,3,3.0,ID_G91KCS98,Andromeda,Comet
+2018-08-25,3,12.0,ID_RFU5FMC8,Milky Way,Andromeda
+2018-10-03,3,300.0,ID_GBP5RWBW,Andromeda,Needle
+2018-09-14,3,22.0,ID_EWFWK6L1,Antennae,Milky Way
+2018-11-07,3,71.0,ID_QCQ20X8Y,Antennae,Cartwheel
+2018-11-28,3,87.0,ID_03VRW8WV,Comet,Antennae
+2018-12-12,3,106.0,ID_XQGYMP2Q,Whirlpool,Andromeda
+2018-12-18,3,118.0,ID_A46DVQWP,Andromeda,Sunflower
+2019-02-20,3,140.0,ID_0UB8ADG9,Andromeda,Cartwheel
+2019-04-23,3,182.0,ID_FDCEHVOD,Andromeda,Malin 1
+2019-04-27,3,186.0,ID_SY9KA6L3,Andromeda,Cigar
+2018-12-04,3,300.0,ID_RX2CNZIS,Circinus,Andromeda
+2018-12-22,3,300.0,ID_B3NVY9HP,Tadpole,Andromeda
+2018-10-02,3,41.0,ID_MXDJNYS9,Sunflower,Malin 1
+2018-09-11,3,23.0,ID_WJIU8X3N,Malin 1,Fireworks
+2018-11-27,3,85.0,ID_DYAVEIYE,Medusa Merger,Malin 1
+2018-12-05,3,97.0,ID_L80OJ6QI,Milky Way,Malin 1
+2018-12-12,3,109.0,ID_A5U63MGQ,Cigar,Malin 1
+2018-12-18,3,117.0,ID_B5ED50XX,Malin 1,Milky Way
+2019-04-16,3,176.0,ID_2X3AC0BS,Antennae,Comet
+2019-04-24,3,185.0,ID_ZTDZNU6I,Whirlpool,Antennae
+2019-05-03,3,195.0,ID_B32VWKSX,Tadpole,Antennae
+2019-05-07,3,200.0,ID_D8RLSTH5,Antennae,Malin 1
+2019-05-14,3,207.0,ID_7RVSY2WQ,Cartwheel,Antennae
+2019-05-24,3,216.0,ID_DLPZZFIJ,Antennae,Andromeda
+2018-11-24,3,83.0,ID_IPJJKELT,Needle,Comet
+2018-11-20,3,91.0,ID_MM9562CN,Milky Way,Needle
+2018-12-01,3,93.0,ID_ZJC5BV5Z,Needle,Sunflower
+2018-12-14,3,113.0,ID_HNY0SOAW,Needle,Cartwheel
+2018-12-23,3,129.0,ID_RPNHBU1X,Medusa Merger,Needle
+2019-02-26,3,145.0,ID_L1OMXXIV,Circinus,Needle
+2019-04-23,3,184.0,ID_QPA4T2QH,Needle,Milky Way
+2018-10-02,3,43.0,ID_VP9Q1486,Backward,Fireworks
+2018-11-02,3,64.0,ID_PK7PTLYZ,Sunflower,Backward
+2018-09-11,3,17.0,ID_EU409IWG,Backward,Comet
+2018-10-16,3,52.0,ID_XWL7CYH2,Milky Way,Backward
+2018-11-07,3,70.0,ID_1J98M9UL,Whirlpool,Backward
+2018-11-20,3,90.0,ID_EETOBLMQ,Backward,Circinus
+2018-12-11,3,103.0,ID_ZD3UQK1K,Backward,Cartwheel
+2018-12-14,3,111.0,ID_DSZ1VC2A,Medusa Merger,Backward
+2019-02-14,3,131.0,ID_3SIVKWL4,Backward,Medusa Merger
+2019-02-20,3,139.0,ID_BR430MM1,Malin 1,Backward
+2019-02-26,3,143.0,ID_4G117ZRE,Backward,Cigar
+2018-12-02,3,94.0,ID_XK39LD7P,Cosmos Redshift 7,Backward
+2019-04-12,3,175.0,ID_QQYS31OV,Backward,Cosmos Redshift 7
+2019-03-05,3,189.0,ID_EVSAW1BF,Backward,Sunflower
+2019-05-07,3,202.0,ID_7ZBSNKA9,Circinus,Backward
+2018-08-25,3,13.0,ID_4M8BH80D,Cigar,Backward
+2019-05-02,3,194.0,ID_QV0XBIAB,Sunflower,Cosmos Redshift 7
+2018-12-14,3,110.0,ID_ZMO6O1V6,Tadpole,Cosmos Redshift 7
+2019-03-02,3,147.0,ID_EVTW8X2J,Cosmos Redshift 7,Cartwheel
+2019-03-16,3,156.0,ID_TEHN7MG2,Cosmos Redshift 7,Milky Way
+2019-04-06,3,169.0,ID_DN9ALJT4,Malin 1,Cosmos Redshift 7
+2018-08-21,3,6.0,ID_3I1STYJX,Cosmos Redshift 7,Fireworks
+2018-08-24,3,10.0,ID_X9050P7D,Needle,Cosmos Redshift 7
+2019-05-24,3,215.0,ID_PJ53WB0E,Cosmos Redshift 7,Comet
+2019-04-03,3,164.0,ID_AB2XN1F5,Cartwheel,Backward
+2019-05-14,3,205.0,ID_N0UG6G1F,Backward,Milky Way
+2018-08-21,3,2.0,ID_PYMMJPRC,Backward,Needle
+2019-05-21,3,212.0,ID_0H4KVTOZ,Comet,Backward
+2018-09-18,3,300.0,ID_KSKX84HK,Backward,Malin 1
+2019-05-04,3,300.0,ID_8QTW09GB,Backward,Andromeda
+2019-04-24,3,300.0,ID_HRER0KI5,Tadpole,Backward
+2018-09-12,3,19.0,ID_FKNOHQ2F,Medusa Merger,Cigar
+2018-09-18,3,27.0,ID_9H3FH940,Cigar,Whirlpool
+2018-10-16,3,47.0,ID_TRXZ1689,Cigar,Circinus
+2019-05-21,3,211.0,ID_H6H66KH2,Cigar,Tadpole
+2018-11-21,3,79.0,ID_U8OKJQV2,Comet,Cigar
+2018-12-04,3,98.0,ID_WRQ0YFYZ,Tadpole,Comet
+2018-12-07,3,99.0,ID_AFHJCI8U,Cartwheel,Comet
+2018-12-12,3,108.0,ID_JZ6N5FRO,Comet,Fireworks
+2018-12-19,3,121.0,ID_3TIWWKU9,Comet,Circinus
+2018-12-22,3,125.0,ID_JFIU2R4K,Cigar,Comet
+2019-02-15,3,134.0,ID_56ZZJ9EI,Comet,Milky Way
+2019-03-05,3,151.0,ID_OBS64UDF,Comet,Medusa Merger
+2019-03-16,3,157.0,ID_SA37C0V7,Malin 1,Comet
+2018-10-20,3,53.0,ID_HTSWMY3T,Comet,Cosmos Redshift 7
+2019-04-06,3,171.0,ID_NFN5I5XU,Comet,Cartwheel
+2019-04-12,3,179.0,ID_S2N3NDJS,Comet,Tadpole
+2019-04-23,3,190.0,ID_05YW7A1R,Sunflower,Comet
+2019-05-04,3,196.0,ID_W1EF4MOT,Comet,Whirlpool
+2019-05-07,3,203.0,ID_OB71L9F1,Fireworks,Comet
+2019-03-19,3,160.0,ID_LJF4GEZC,Cartwheel,Needle
+2019-05-03,3,193.0,ID_7MWJO1RG,Cigar,Needle
+2019-05-14,3,208.0,ID_9FMP4X22,Sunflower,Needle
+2018-09-19,3,26.0,ID_8ZJMCSAG,Tadpole,Milky Way
+2018-09-25,3,33.0,ID_A84IUATV,Milky Way,Comet
+2018-11-02,3,62.0,ID_ANHOSW6K,Whirlpool,Milky Way
+2018-11-05,3,68.0,ID_MPA7FT70,Milky Way,Sunflower
+2019-03-05,3,150.0,ID_7DM8G9SL,Cosmos Redshift 7,Cigar
+2018-10-28,3,60.0,ID_06SV1XSM,Cosmos Redshift 7,Whirlpool
+2018-11-02,3,63.0,ID_JNE2K1SS,Cosmos Redshift 7,Malin 1
+2018-11-24,3,81.0,ID_86GTEWAA,Fireworks,Cosmos Redshift 7
+2019-04-27,3,187.0,ID_2DMNO9QP,Cosmos Redshift 7,Circinus
+2018-08-25,3,15.0,ID_JA9L72HB,Fireworks,Sunflower
+2018-09-19,3,25.0,ID_A0EALXUP,Medusa Merger,Sunflower
+2018-09-26,3,36.0,ID_MNGV4C4L,Whirlpool,Sunflower
+2018-10-23,3,54.0,ID_5LFD56QF,Comet,Sunflower
+2018-11-21,3,78.0,ID_KR88Y90B,Sunflower,Tadpole
+2018-11-27,3,86.0,ID_YMK5WFEQ,Sunflower,Cartwheel
+2018-12-07,3,100.0,ID_BK1X6A61,Sunflower,Circinus
+2019-02-15,3,133.0,ID_YSOEYNCU,Whirlpool,Malin 1
+2019-02-19,3,138.0,ID_QHZJNHVX,Circinus,Whirlpool
+2019-02-27,3,146.0,ID_9UVQHS74,Milky Way,Whirlpool
+2019-03-06,3,155.0,ID_UOTGKHS3,Whirlpool,Tadpole
+2019-03-20,3,161.0,ID_IG3ZU2ZF,Fireworks,Whirlpool
+2019-04-02,3,166.0,ID_85W3ZWMS,Sunflower,Whirlpool
+2019-04-16,3,177.0,ID_F2M9J1QJ,Cartwheel,Whirlpool
+2019-04-30,3,191.0,ID_PK1XYY2J,Cigar,Cartwheel
+2019-04-05,3,168.0,ID_LUDJ2HBX,Cigar,Sunflower
+2018-11-02,3,61.0,ID_7Q5V45IR,Cigar,Fireworks
+2018-09-26,3,37.0,ID_3SHIZPTH,Needle,Cigar
+2019-04-02,3,162.0,ID_IPWDET7J,Circinus,Cigar
+2019-04-16,3,178.0,ID_2WSDLFNM,Cigar,Milky Way
+2019-04-23,3,183.0,ID_5RTFVRBT,Fireworks,Cigar
+2019-05-14,3,206.0,ID_YU30VY06,Malin 1,Cigar
+2018-08-22,3,8.0,ID_PBON8UC5,Sunflower,Cigar
+2018-09-18,3,24.0,ID_4KXP34GC,Cartwheel,Fireworks
+2018-10-17,3,48.0,ID_B8ZVJSX7,Tadpole,Fireworks
+2018-10-27,3,59.0,ID_064HV3UA,Fireworks,Needle
+2018-09-25,3,38.0,ID_TFI6B51W,Fireworks,Circinus
+2018-11-28,3,88.0,ID_P98LF0O1,Whirlpool,Fireworks
+2018-12-04,3,95.0,ID_JHECYNWP,Fireworks,Medusa Merger
+2018-12-08,3,107.0,ID_GOMKISKS,Fireworks,Milky Way
+2019-02-16,3,135.0,ID_AOLHJTW3,Fireworks,Tadpole
+2019-03-06,3,154.0,ID_VEHWAM3N,Needle,Fireworks
+2019-04-17,3,180.0,ID_H5QG5VMD,Circinus,Fireworks
+2019-02-15,3,132.0,ID_JMF7GIUY,Cartwheel,Cigar
+2018-08-25,3,16.0,ID_KJBPWWIH,Whirlpool,Cartwheel
+2018-08-22,3,7.0,ID_MJ8THLEX,Tadpole,Whirlpool
+2018-11-24,3,84.0,ID_IBRGSBOA,Medusa Merger,Milky Way
+2019-04-06,3,170.0,ID_0OW7LBXH,Tadpole,Medusa Merger
+2019-05-14,3,204.0,ID_1YF71544,Medusa Merger,Fireworks
+2018-08-24,3,9.0,ID_YP3N91A2,Circinus,Medusa Merger
+2019-05-21,3,213.0,ID_MWXN4B53,Fireworks,Cartwheel
+2018-09-24,3,31.0,ID_RRYKCVJW,Tadpole,Cartwheel
+2018-10-16,3,46.0,ID_08N8KYTM,Malin 1,Cartwheel
+2018-11-03,3,66.0,ID_CVL86B7P,Cartwheel,Circinus
+2018-12-18,3,119.0,ID_OBSKQ4V1,Cartwheel,Tadpole
+2018-12-22,3,126.0,ID_ON6TBDP7,Milky Way,Cartwheel
+2019-03-05,3,152.0,ID_9P65QCMQ,Cartwheel,Malin 1
+2019-05-07,3,199.0,ID_UIJNWDX2,Cartwheel,Sunflower
+2018-08-21,3,4.0,ID_Q0QMD9X9,Cartwheel,Milky Way
+2019-05-04,3,209.0,ID_0D97CTM2,Circinus,Cartwheel
+2019-02-07,3,130.0,ID_W5BFF5QC,Medusa Merger,Circinus
+2018-09-22,3,29.0,ID_WDL1IC3Y,Comet,Needle
+2018-10-03,3,45.0,ID_25GTI42K,Whirlpool,Comet
+2018-08-25,3,14.0,ID_LVP6C9HW,Comet,Malin 1
+2018-11-07,3,72.0,ID_XBT7BBZD,Circinus,Comet
+2018-12-19,3,120.0,ID_FEOI64KN,Whirlpool,Cigar
+2018-10-24,3,56.0,ID_1KCBWUKE,Milky Way,Cigar
+2018-11-28,3,89.0,ID_568NZHSC,Tadpole,Cigar
+2018-10-24,3,57.0,ID_K06LVF2G,Circinus,Tadpole
+2019-02-19,3,137.0,ID_MP4ONP0P,Tadpole,Sunflower
+2019-02-26,3,144.0,ID_ZQOB9ZQL,Malin 1,Tadpole
+2019-05-06,3,198.0,ID_GLACPTCA,Milky Way,Tadpole
+2018-11-20,3,76.0,ID_1JGSZL4I,Malin 1,Whirlpool
+2018-12-08,3,101.0,ID_6NMJFGI6,Medusa Merger,Whirlpool
+2018-08-21,3,5.0,ID_V8L2BWZV,Malin 1,Circinus
+2019-03-19,3,158.0,ID_ZUPS2JD2,Sunflower,Milky Way
+2019-04-16,3,181.0,ID_O50PFEVT,Malin 1,Sunflower
+2019-05-21,3,210.0,ID_JXNNMUJK,Circinus,Sunflower
+2018-10-02,3,42.0,ID_IM6OHCK8,Circinus,Milky Way
+2019-04-02,3,165.0,ID_6DCVCZN8,Fireworks,Malin 1
+2019-05-03,3,197.0,ID_RT5HR95R,Milky Way,Fireworks
+2018-12-11,3,105.0,ID_7HWNZT53,Milky Way,Medusa Merger
+2018-10-19,3,49.0,ID_7SH1NGU4,Needle,Whirlpool
+2018-09-12,3,20.0,ID_IGWZ8LQR,Whirlpool,Circinus
+2019-05-21,3,300.0,ID_QR4DQRG1,Needle,Malin 1
+2018-12-08,3,300.0,ID_133YXY0T,Backward,Tadpole
+2019-04-05,3,167.0,ID_XVGLDCOL,Milky Way,Circinus
+2019-05-14,3,300.0,ID_GI90U9RD,Andromeda,Whirlpool
+2018-12-22,3,300.0,ID_BXLQY78T,Backward,Whirlpool
+2019-04-17,3,300.0,ID_YLIXN9AV,Needle,Tadpole
+2019-03-06,3,300.0,ID_530FN5PE,Andromeda,Circinus
+2019-04-06,3,300.0,ID_FRUGDE4G,Whirlpool,Needle
+2018-11-07,3,300.0,ID_LTB6HGNO,Tadpole,Malin 1
+2019-03-02,3,300.0,ID_KD5JPIY4,Needle,Backward
+2018-11-02,3,300.0,ID_GVX36W01,Andromeda,Tadpole
+2019-03-16,3,300.0,ID_EMIAV5PV,Needle,Circinus
+2018-12-08,3,300.0,ID_QKQ00O16,Malin 1,Needle
+2018-12-11,3,300.0,ID_172V2IXW,Tadpole,Needle
+2018-12-22,3,300.0,ID_2ZK5TE39,Circinus,Malin 1
+2019-05-07,3,300.0,ID_IS54QGW9,Needle,Andromeda
+2019-05-14,3,300.0,ID_YG9IONLS,Tadpole,Circinus

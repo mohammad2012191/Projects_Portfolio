@@ -1,0 +1,36 @@
+Game Statistics,
+Game_ID,Unique ID of the game
+Player_ID,Unique ID for each player
+id,Unique ID for each action
+X,Position ball received at
+Y,Position ball received at
+Team,Name of home team
+Action,"Time of play – positional attack, inaccurate pass, etc"
+Half,Which half of the game
+Manager,Manager name (masked)
+Opposition_Team,Name of opposition team
+Shots,Number of shots at goal
+SoT,Shots on Target
+Goals_scored,Number of goals scored
+Goals_conceded,Number of goals conceded
+Accurate passes,Number of accurate passes
+Inaccurate passes,Number of inaccurate passes
+Passes,Number of total passes
+Start_minutes,These come from the video when an analysts tags events. It merely mirrors the start time of the event and ending of the event occurring.
+End_minutes,These come from the video when an analysts tags events. It merely mirrors the start time of the event and ending of the event occurring.
+next_player,This is mostly used for passing data where it refers to the receipient of the pass coming from Player_Namr column.
+next_action,This refers to the next action that comes after the recepient (next_player) has the ball.
+next_x,Used for passing to establish the end location of a pass. XY to Next_x & Next_Y.
+next_y,Used for passing to establish the end location of a pass. XY to Next_x & Next_Y.
+event_id,Similar to next_action
+xt_value,Refers to the value of a pass. This is calculated by looking mostly at the direction of the pass and how it moves forward and by how much towards the opposition goal. 
+,
+,
+Game Data,
+Date,Date of game
+Season,Season
+Match_ID,"Which game in the season it is, you can use this to determine pool stages, cross overs and playoffs"
+Game_ID,"Unique Game ID, you can use this to merge with Game Statistics"
+Home Team,Home team
+Away Team,Visiting Team
+Score,"Outcome of the game, Away Win, Home Win, Draw"
