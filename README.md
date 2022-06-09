@@ -88,3 +88,18 @@ RMSPE Score: 0.11323
 Contest URL: https://www.kaggle.com/competitions/rossmann-store-sales/
 
 ## Tools: Jupyter Notebooks - EDA - LGBM - Stacking - Pandas
+---------------------------------------------------------------------------------------
+* ## Laduma Analytics Football League Winners Prediction: 
+In this multiclass classification task, One should implement a model to predict the outcome of a football match, based on historical match and player data.
+
+Platform: Zindi
+
+Type of Data: Time Series Data
+
+Accuracy Score: 47.8%
+
+Position: 4 out of 251 contestants
+
+Contest URL: [https://zindi.africa/competitions/umojahack-africa-2022-beginner-challenge](https://zindi.africa/competitions/zindi-weekendz-laduma-analytics-football-league-winners-prediction-challenge/leaderboard)
+
+## Tools: Jupyter Notebooks - Python 3 - LGBM - Pandas
