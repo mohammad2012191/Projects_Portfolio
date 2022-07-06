@@ -118,3 +118,18 @@ Position: 3 out of 153 contestants
 Contest URL: https://zindi.africa/competitions/zindi-weekendz-layerai-air-quality-prediction-challenge/
 
 ## Tools: Jupyter Notebooks - Python 3 - CatBoost - Pandas
+---------------------------------------------------------------------------------------
+* ## AI4D Africa’s Anglophone Research Lab Tanzania Tourism Prediction: 
+In this multiclass classification task, One should implement a model to classify the range of expenditures a tourist spends in Tanzania.
+
+Platform: Zindi
+
+Type of Data: Tabular Data
+
+Position: 32 out of 461 contestants
+
+Log-Loss: 1.040574812022115
+
+Contest URL: https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge/
+
+## Tools: Jupyter Notebooks - Python 3 - Ensembling - Voting Classifier - Pandas
