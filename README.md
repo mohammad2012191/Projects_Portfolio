@@ -103,3 +103,18 @@ Position: 4 out of 251 contestants
 Contest URL: https://zindi.africa/competitions/zindi-weekendz-laduma-analytics-football-league-winners-prediction-challenge
 
 ## Tools: Jupyter Notebooks - Python 3 - LGBM - Pandas
+---------------------------------------------------------------------------------------
+* ## Layer.ai Air Quality Prediction: 
+In this regression task, One should implement a model to predict air quality in regions in Kampala, based on satellite radar data from Sentinel 5P.
+
+Platform: Zindi
+
+Type of Data: Time Series Data
+
+MAE Score: 13.33173593948973
+
+Position: 3 out of 153 contestants
+
+Contest URL: https://zindi.africa/competitions/zindi-weekendz-layerai-air-quality-prediction-challenge/
+
+## Tools: Jupyter Notebooks - Python 3 - CatBoost - Pandas
