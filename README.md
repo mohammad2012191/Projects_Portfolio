@@ -1,7 +1,7 @@
 # Projects_Portfolio
 Here are my projects related to Data Analysis and Machine Learning.
 # Machine Learning Competitions (Kaggle / Zindi)
-* ## Financial Inclusion in Africa by IndabaX Sudan 2021: 
+* ## 1- Financial Inclusion in Africa by IndabaX Sudan 2021: 
 In this binary classification task, One should implement a model to predict whether a person has a bank account or not given some information about the person.
 
 Platform: Zindi
@@ -16,7 +16,7 @@ Contest URL: https://zindi.africa/hackathons/indabax-sudan-2021
 
 Tools: Jupyter Notebooks - Python 3 - XGBoost - Pandas
 ---------------------------------------------------------------------------------------
-* ## Titanic Survival Prediction Challenge: 
+* ## 2- Titanic Survival Prediction Challenge: 
 In this binary classification task, One should implement a model to predict whether a person has survived from the sinking of the Titanic or not given some information about the person.
 
 Platform: Kaggle
@@ -29,7 +29,7 @@ Contest URL: https://www.kaggle.com/c/titanic/overview
 
 ## Tools: Jupyter Notebooks - Python 3 - Logistic Regression - Pandas
 ---------------------------------------------------------------------------------------
-* ## Economic Well-Being Prediction Challenge: 
+* ## 3- Economic Well-Being Prediction Challenge: 
 In this regression task, One should implement a model to predict a measure of wealth for different locations across Africa.
 
 Platform: Zindi
@@ -44,7 +44,7 @@ Contest URL: https://zindi.africa/competitions/umojahack-2022-practice-challenge
 
 ## Tools: Jupyter Notebooks - Python 3 - LGBM - Bagging Regressor - Pandas
 ---------------------------------------------------------------------------------------
-* ## Faulty Air Quality Sensor Prediction: 
+* ## 4- Faulty Air Quality Sensor Prediction: 
 In this binary classification task, One should implement a model to predict whether a device is faulty based on its output data.
 
 Platform: Zindi
@@ -61,7 +61,7 @@ Contest URL: https://zindi.africa/competitions/umojahack-africa-2022-beginner-ch
 
 ## Tools: Jupyter Notebooks - Python 3 - LGBM - SMOTE - Pandas
 ---------------------------------------------------------------------------------------
-* ## Tanzania Tourism Prediction Challenge: 
+* ## 5- Tanzania Tourism Prediction Challenge: 
 In this regression task, One should implement a model to predict what a tourist will spend when visiting Tanzania.
 
 Platform: Zindi
@@ -76,7 +76,7 @@ Contest URL: https://zindi.africa/competitions/tanzania-tourism-prediction
 
 ## Tools: Jupyter Notebooks - Python 3 - LGBM - Bagging Regressor - Pandas
 ---------------------------------------------------------------------------------------
-* ## Rossmann Stores Sales Prediction: 
+* ## 6- Rossmann Stores Sales Prediction: 
 In this regression task, One should implement a model to forecast the store sales for the next six weeks of the data.
 
 Platform: Kaggle
@@ -89,7 +89,7 @@ Contest URL: https://www.kaggle.com/competitions/rossmann-store-sales/
 
 ## Tools: Jupyter Notebooks - EDA - LGBM - Stacking - Pandas
 ---------------------------------------------------------------------------------------
-* ## Laduma Analytics Football League Winners Prediction: 
+* ## 7- Laduma Analytics Football League Winners Prediction: 
 In this multiclass classification task, One should implement a model to predict the outcome of a football match, based on historical match and player data.
 
 Platform: Zindi
@@ -104,7 +104,7 @@ Contest URL: https://zindi.africa/competitions/zindi-weekendz-laduma-analytics-f
 
 ## Tools: Jupyter Notebooks - Python 3 - LGBM - Pandas
 ---------------------------------------------------------------------------------------
-* ## Layer.ai Air Quality Prediction: 
+* ## 8- Layer.ai Air Quality Prediction: 
 In this regression task, One should implement a model to predict air quality in regions in Kampala, based on satellite radar data from Sentinel 5P.
 
 Platform: Zindi
@@ -119,7 +119,7 @@ Contest URL: https://zindi.africa/competitions/zindi-weekendz-layerai-air-qualit
 
 ## Tools: Jupyter Notebooks - Python 3 - CatBoost - Pandas
 ---------------------------------------------------------------------------------------
-* ## AI4D Africa’s Anglophone Research Lab Tanzania Tourism Prediction: 
+* ## 9- AI4D Africa’s Anglophone Research Lab Tanzania Tourism Prediction: 
 In this multiclass classification task, One should implement a model to classify the range of expenditures a tourist spends in Tanzania.
 
 Platform: Zindi
@@ -133,3 +133,18 @@ Log-Loss: 1.040574812022115
 Contest URL: https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge/
 
 ## Tools: Jupyter Notebooks - Python 3 - Ensembling - Voting Classifier - Pandas
+---------------------------------------------------------------------------------------
+* ## 10- Alvin Smart Money Management Classification Challenge: 
+In this multiclass classification task, One should implement a model to classify purchases into 13 different categories, based on transactions data from Alvin.
+
+Platform: Zindi
+
+Type of Data: Tabular Data
+
+Logloss Score: 1.372343425651699
+
+Position: 8 out of 448 contestants
+
+Contest URL: https://zindi.africa/competitions/alvin-smart-money-management-classification-challenge/
+
+## Tools: Jupyter Notebooks - Python 3 - CatBoost - Random Forest - KNN - Pandas
