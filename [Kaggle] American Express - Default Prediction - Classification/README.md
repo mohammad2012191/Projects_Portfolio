@@ -19,14 +19,14 @@ credit card balance amount in the future based on their monthly customer profile
 <br />  9- Feature Engineering (Polar Coordinates - Statistics of Some Groups of Features - Target Encoding - Aggregations)
 <br />  10- Feature Selection (Removed the Useless Features)
 <br />  11- Inference (Using The Models From Validation)
-<br />  12- Makeing The Submission File
+<br />  12- Making The Submission File
 
-* ## Note: The Datasets Needed to Reproduce the Results Can Be Found Here:
-https://www.kaggle.com/code/mohammad2012191/catboost-unique-feature-engineering-ideas/data
-
-* ## Note: A Ready Notebook Can Be Found Here:
-https://www.kaggle.com/code/mohammad2012191/catboost-unique-feature-engineering-ideas
-
+* ## Notes: 
+1- The Datasets Needed to Reproduce the Results Can Be Found Here:
+<br />https://www.kaggle.com/code/mohammad2012191/catboost-unique-feature-engineering-ideas/data
+<br />2- A Ready Notebook Can Be Found Here (Please Use The GPU to Reproduce the Results):
+<br />https://www.kaggle.com/code/mohammad2012191/catboost-unique-feature-engineering-ideas
+<br />3- The Features in The Dataset are Anonimized by The Host.
 * ## AMEX Score: 0.80712
 * ## Position: 450 out of 4875 contestants (A Bronze Medal)
 * ## Contest URL: https://www.kaggle.com/competitions/amex-default-prediction/
