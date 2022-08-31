@@ -148,3 +148,18 @@ Position: 8 out of 448 contestants
 Contest URL: https://zindi.africa/competitions/alvin-smart-money-management-classification-challenge/
 
 ## Tools: Jupyter Notebooks - Python 3 - CatBoost - Random Forest - KNN - Pandas
+---------------------------------------------------------------------------------------
+* ## 10- American Express Default Prediction Challenge: 
+In this binary classification task, One should implement a model to predict the probability that a customer does not pay back their credit card balance amount in the future based on their monthly customer profile.
+
+Platform: Kaggle
+
+Type of Data: Tabular Data
+
+AMEX Score: 0.80712
+
+Position: 450 out of 4875 contestants (A Bronze Medal)
+
+Contest URL: https://www.kaggle.com/competitions/amex-default-prediction/
+
+## Tools: Jupyter Notebooks - Python 3 - CatBoost - CUDF - CUPY
