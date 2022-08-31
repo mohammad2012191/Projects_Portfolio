@@ -149,7 +149,7 @@ Contest URL: https://zindi.africa/competitions/alvin-smart-money-management-clas
 
 ## Tools: Jupyter Notebooks - Python 3 - CatBoost - Random Forest - KNN - Pandas
 ---------------------------------------------------------------------------------------
-* ## 10- American Express Default Prediction Challenge: 
+* ## 11- American Express Default Prediction Challenge: 
 In this binary classification task, One should implement a model to predict the probability that a customer does not pay back their credit card balance amount in the future based on their monthly customer profile.
 
 Platform: Kaggle
