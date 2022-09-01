@@ -163,3 +163,18 @@ Position: 450 out of 4875 contestants (A Bronze Medal)
 Contest URL: https://www.kaggle.com/competitions/amex-default-prediction/
 
 ## Tools: Jupyter Notebooks - Python 3 - CatBoost - CUDF - CUPY
+---------------------------------------------------------------------------------------
+* ## 12- Fossil Demand Forecasting Challenge: 
+In this regression task, One should implement a model to determine as accurately as possible the demand for each individual product, four months into the future.
+
+Platform: Zindi
+
+Type of Data: Time Series Data
+
+MAE Score: 165985.6352266829
+
+Position: 24 out of 827 contestants
+
+Contest URL: https://zindi.africa/competitions/fossil-stock-forecasting-challenge/
+
+## Tools: Jupyter Notebooks - Python 3 - CatBoost - Pandas
