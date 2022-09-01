@@ -32,4 +32,4 @@ for each individual product, four months into the future. This model will enable
 Contributer | Zindi Account
 --- | ---
 Mohamed Eltayeb | [@Mohamed-Eltayeb](https://zindi.africa/users/Mohamed-Eltayeb)
-Jonny | [@Omar_Wade3](https://zindi.africa/users/J0NNY)
+Jonny | [@Jonny](https://zindi.africa/users/J0NNY)
