@@ -178,3 +178,19 @@ Position: 24 out of 827 contestants
 Contest URL: https://zindi.africa/competitions/fossil-stock-forecasting-challenge/
 
 ## Tools: Jupyter Notebooks - Python 3 - CatBoost - Pandas
+---------------------------------------------------------------------------------------
+* ## 13- Electricity and Gas Consumption Challenge: 
+In this classification task, One should implement a model to detect and recognize clients involved in fraudulent activities.
+
+Platform: Zindi
+
+Type of Data: Tabular Data
+
+AUC Score: 0.8966153
+
+Position: 1 out of 51 contestants
+
+Contest URL: https://zindi.africa/competitions/indabax-sudan-classification2022/
+
+## Tools: Jupyter Notebooks - Python 3 - CatBoost - Pandas
+
