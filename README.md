@@ -12,7 +12,7 @@ Position: 1 out of 38 contestants
 
 MAE: 0.109555087371421
 
-Contest URL: https://zindi.africa/hackathons/indabax-sudan-2021
+Contest URL: [https://zindi.africa/hackathons/indabax-sudan-2021](https://zindi.africa/competitions/financial-inclusion-in-africa/)
 
 Tools: Jupyter Notebooks - Python 3 - XGBoost - Pandas
 ---------------------------------------------------------------------------------------
